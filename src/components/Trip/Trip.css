@@ -1,0 +1,8 @@
+.trip {
+  margin-top: 16px;
+  border: 1px solid var(--main-color);
+  padding: 2px;
+}
+.trip:first-child {
+  margin-top: 0;
+}

@@ -1,0 +1,16 @@
+select {
+  font-size: 16px;
+  border: 0;
+  border-bottom: 2px solid rgb(229, 229, 229);
+  padding: 16px 24px;
+  box-sizing: border-box;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: url('../../../assets/angle-up-solid.svg') 96% / 15% no-repeat transparent;
+  background-size: 16px 16px;
+}
+
+select.block {
+  width: 100%;
+}

@@ -1,0 +1,15 @@
+input {
+  border: 0;
+  border-bottom: 2px solid rgb(229, 229, 229);
+  padding: 16px 24px;
+  box-sizing: border-box;
+}
+
+input.block {
+  display: block;
+  width: 100%;
+}
+
+input:focus {
+  border-bottom: 2px solid var(--main-color);;
+}
